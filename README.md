@@ -8,10 +8,10 @@ Literally recipes that I make at home. No blog included (unless you want one ðŸ¤
 
 > Recipes I'm working on.
 
-- [ ] Salsa
+- [X] [Salsa](salsa.md)
+- [X] [Salsa (Pico de Gallo)](salsa.md#pico-de-gallo-no-food-processor)
 - [ ] Red Sauce (Tomato Sauce)
 - [ ] Chili
-- [ ] Salsa (Pico de Gallo)
 - [ ] Carnitas
 - [ ] Bechamel Macaroni & Cheese
 - [ ] Breakfast Hash
